@@ -1,0 +1,9 @@
+<config>
+    <appPath>D:\software\suri\SugonRI\SugonRI.exe</appPath>
+    <resultPath>C:\Users\12862\Desktop\ide-autotest\report</resultPath>
+    <projectPath>C:\Users\12862\Desktop\ide-autotest\program</projectPath>
+    <testCases>
+        <testCase>test_case5*</testCase>
+    </testCases>
+    <enableWildcard>true</enableWildcard> <!-- 模糊匹配开关 -->
+</config>
